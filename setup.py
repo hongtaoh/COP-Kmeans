@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='copkmeans',
+    name='copkmeans-ht',
     version='1.5',
     description='',
     author='',
